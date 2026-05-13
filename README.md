@@ -47,7 +47,7 @@ One Big Table (OBT) destiné au Machine Learning.
 
 # 🛠️ Technologies Utilisées
 
-- :contentReference[oaicite:0]{index=0}
+
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Warehouse
